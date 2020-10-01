@@ -2,6 +2,9 @@
 /classes/ 
 /target/
 **/.DS_Store
+.DS_Store 
+*.DS_Store
+
 
 HELP.md
 .gradle
